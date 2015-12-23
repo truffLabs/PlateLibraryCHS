@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Plate Library</string>
+
+
+    <string name="action_settings">Settings</string>
+    <string name="PLATE">Licence Plate</string>
+    <string name="SEARCH_PLATE">Search for Plate</string>
+    <string name="SEARCH_NAME">Search for Name</string>
+    <string name="LOOKING_FOR">Type licence or name here</string>
+</resources>
